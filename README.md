@@ -1,1 +1,1 @@
-# RecognizeMe-IJCAI
+# RecognizeMe
